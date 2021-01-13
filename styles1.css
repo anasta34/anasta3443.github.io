@@ -1,0 +1,17 @@
+body {
+ table - align= center;
+    background-color: #990099;
+}
+
+table {
+    table - align= center;
+    border:  1px solid white;
+    width: 400px;
+}
+
+th,td {
+ table - align= center;
+    border: 1px solid white;
+    padding: 20px 20px;
+}
+
